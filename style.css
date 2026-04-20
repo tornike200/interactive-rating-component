@@ -71,6 +71,7 @@ p {
     line-height: 24px;
     letter-spacing: 0.2px;
     text-align: center;
+    cursor: pointer;
   }
 
   .circle:hover {
@@ -89,4 +90,10 @@ button {
   border-radius: 22.5px;
   border: none;
   padding: 15px 137px 11px 137px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: white;
+  color: #262e38 !important;
 }
