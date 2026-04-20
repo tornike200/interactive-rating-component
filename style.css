@@ -36,6 +36,16 @@ body {
   border-radius: 50%;
 }
 
+.star {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #262e38;
+  border-radius: 50%;
+}
+
 h2 {
   font-size: 28px;
   color: white;
